@@ -38,7 +38,3 @@ The mod does fix some client-side bugs (not many), and only if carpet-fixes is o
 For Client-Side fixes, go check out: [blanket](https://github.com/BlanketMC/blanket-client-tweaks)
 
 ---
-
-<a href="https://client.kinetichosting.net/aff.php?aff=42"><img alt="Kinetic Hosting" src="https://fxco.ca/assets/Mod_Banner.png"></a>
-
----
