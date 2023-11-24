@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "id": "carpet-fixes",
-  "version": "${version}",
+  "version": "1.6.2",
   "name": "Carpet Fixes",
   "description": "The carpet extension to fix all vanilla minecraft bugs",
   "authors": [
-    "FX - PR0CESS, ..."
+    "Triibu"
   ],
   "contact": {
     "homepage": "https://github.com/fxmorin/carpet-fixes",
@@ -31,9 +31,9 @@
   ],
   "accessWidener" : "carpet-fixes.accesswidener",
   "depends": {
-    "minecraft": ">=1.20",
-    "fabricloader": ">=0.11.3",
-    "carpet": ">=1.4.91",
+    "minecraft": ">=1.20.2",
+    "fabricloader": ">=0.14.0",
+    "carpet": ">=1.4.119",
     "java": ">=17",
     "conditional-mixin": "*"
   },

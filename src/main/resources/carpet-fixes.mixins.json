@@ -137,7 +137,7 @@
     "dupeFixes.ShulkerBoxBlock_breakSwapDupeMixin",
     "dupeFixes.TripwireBlock_stringDupeMixin",
     "dupeFixes.TripwireHookBlock_hookDupeMixin",
-    "dupeFixes.saferItemTransfer.DropperBlock_dontCopyMixin",
+
     "entityFixes.AbstractDecorationEntity_triggersTrapsMixin",
     "entityFixes.AbstractMinecartEntity_armorStandMixin",
     "entityFixes.AbstractMinecartEntity_directionalMixin",
@@ -155,7 +155,7 @@
     "entityFixes.BoatEntity_fallDamageMixin",
     "entityFixes.CatSpawner_incorrectCatMixin",
     "entityFixes.CreeperEntity_fuseMixin",
-    "entityFixes.DrownedEntity_enchantedTridentMixin",
+
     "entityFixes.EndCrystalEntity_ExplosionChainingMixin",
     "entityFixes.EndCrystalEntity_InvulnerableMixin",
     "entityFixes.EndCrystalEntity_pushRespawnMixin",
